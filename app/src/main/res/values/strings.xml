@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Formularz</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="country">country</string>
+    <string name="sex">sex</string>
+    <string name="over18">over 18</string>
+</resources>
